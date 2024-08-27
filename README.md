@@ -12,3 +12,6 @@ Before you can use this script, you'll need to set up a LinkedIn Developer appli
   1. Create a LinkedIn Developer Account: Go to [LinkedIn Developers](https://www.linkedin.com/developers/) and create an account.
   2. Create a New App: Register a new application under your LinkedIn Developer account.
   3. Set Up OAuth: Using OAuth 2.0 Tools, configure a new access token, and ensure that you have the `openid`, `profile`, `w_member_social` and `email` scope enabled to allow posting on behalf of the user.
+
+## Usage ##
+Once the LinkedIn API Token has been set up, paste it in the highlighted panel inside the Grasshopper script and run the script.

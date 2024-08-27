@@ -15,3 +15,6 @@ Before you can use this script, you'll need to set up a LinkedIn Developer appli
 
 ## Usage ##
 Once the LinkedIn API Token has been set up, paste it in the highlighted panel inside the Grasshopper script and run the script.
+
+## License ##
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.

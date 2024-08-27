@@ -1,6 +1,6 @@
 """GET_linkedin_id
     inputs:
-        oauth_token: you can generate your oauth token usuing the linkedin developer api
+        oauth_token: you can generate your oauth token using the linkedin developer api
         trigger: a boolean toggle
     outputs:
         api_response: prints the entire api response 

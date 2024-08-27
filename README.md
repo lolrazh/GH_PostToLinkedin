@@ -4,8 +4,7 @@
 ![](assets/script.png)
 
 ## Requirements ##
-  - Python 3.x
-  - Rhino 3D with Grasshopper (for Grasshopper-specific usage)
+  - Rhinoceros 8
   - A LinkedIn Developer account to obtain OAuth tokens
 
 ## LinkedIn API Prerequisites ##
